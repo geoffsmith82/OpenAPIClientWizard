@@ -51,7 +51,7 @@ object Frm_About: TFrm_About
     Height = 48
     AutoSize = False
     Caption = 
-      'An IDE plug-in(Project wizard) to generate OpenAPI cleint projec' +
+      'An IDE plug-in(Project wizard) to generate OpenAPI client projec' +
       't automatically  by Ali Dehbansiahkarbon.'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText

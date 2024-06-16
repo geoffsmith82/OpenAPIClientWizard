@@ -274,7 +274,7 @@ object Frm_OCWNewProject: TFrm_OCWNewProject
         Top = 48
         Width = 213
         Height = 15
-        Caption = 'Add Mehtod type to function names as: '
+        Caption = 'Add Method type to function names as: '
         WordWrap = True
       end
       object cbb_BooleanStringForm: TComboBox
